@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AppControlFlow
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Aula_23-04_Microservice
+Repositório criado para armazenar a atv da aula de 23/04 da matéria Microservice
+>>>>>>> 5396881e2bdbe4d972ba53ce21cb960f8edd6c17
